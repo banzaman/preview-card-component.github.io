@@ -8,14 +8,22 @@
 
 - Technologies used: HTML, CSS
 
-### The challenge
+
+
+# Live Demo
+
+LINK -  (https://banzaman.github.io/preview-card-component.github.io/)
+
+
+
+# The challenge
 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
+# Screenshot
 
 <img src="./design/desktop-preview.jpg" alt="screenshot" width="400"/>
   
