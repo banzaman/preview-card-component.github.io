@@ -6,13 +6,13 @@
 
 # Built With
 
-- Technologies used: HTML, CSS
+- Technologies used: HTML, CSS.
 
 
 
 # Live Demo
 
-LINK -  (https://banzaman.github.io/preview-card-component.github.io/)
+[LINK](https://banzaman.github.io/preview-card-component.github.io/)
 
 
 
