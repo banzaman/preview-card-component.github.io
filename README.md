@@ -32,7 +32,3 @@ Users should be able to:
 - GitHub: [@banzaman](https://github.com/banzaman)
 - Twitter: [@banzamarq10](https://twitter.com/banzamarq10)
 - LinkedIn: [Mark Rubanza Anderson](https://www.linkedin.com/in/mark-rubanza-anderson-4399a2211/)
-
-## Show your support
-
-Give a ⭐️ if you like this project!
