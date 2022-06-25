@@ -7,6 +7,7 @@
 # Built With
 
 - Technologies used: HTML, CSS.
+- git, github used
 
 
 
